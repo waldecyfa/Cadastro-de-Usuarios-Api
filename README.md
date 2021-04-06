@@ -79,7 +79,7 @@ método: POST
 ```
 Isto retornará um JSON com o usuário e o token que dará acesso ao sistema.
 
-![Login](/screenshots/3-login.png?raw=true "Login")
+
 
 **As mensagens de erro seguem o seguinte padrão:**
 ```json
