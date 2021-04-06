@@ -48,7 +48,6 @@ Isto retornará um JSON com o usuário e o token que dará acesso ao sistema.
 
 *Obs.: O Token é válido por 30 minutos.*
 
-![Consulta de usuário](/screenshots/1-cadastro.png?raw=true "Consulta de usuário")
 
 
 ## Consulta de usuário
@@ -61,7 +60,7 @@ E no header da requisição é necessário informar o key: `Authorization`
 No value é necessário informar `Bearer {token}`
 Isto retornará os dados atualizados do usuário
 
-![Registro](/screenshots/2-consulta.png?raw=true "Registro")
+
 
 ## Login
 Caso não possua o token e já tenha feito o cadastro, é possível realizar o login através da seguinte URL:
