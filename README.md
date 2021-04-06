@@ -1,5 +1,5 @@
-# Cadastro-api
-#### API RESTful para cadastro
+# Cadastro de Usuários-api
+#### API RESTful para cadastro de usuários
 
 Este é um aplicativo back-end que possui uma API RESTful. As requisições funcionam com JSON (entrada e saída). 
 
@@ -29,16 +29,16 @@ método: POST
 ##### Body: #####
 ```json
 {
-   "nome":"andre",
+   "nome":"waldecy",
    "email":"waldecy@gmail.com",
    "senha":"senh@123456",
    "telefones":[
       {
-         "numero":"853456789",
+         "numero":"853458975",
          "ddd":"85"
       },
       {
-         "numero":"987654321",
+         "numero":"987654333",
          "ddd":"88"
       }
    ]
