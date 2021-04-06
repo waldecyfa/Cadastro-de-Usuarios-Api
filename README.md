@@ -1,4 +1,4 @@
-# Cadastro de Usuários-api
+# Cadastro de Usuários-Api
 #### API RESTful para cadastro de usuários
 
 Este é um aplicativo back-end que possui uma API RESTful. As requisições funcionam com JSON (entrada e saída). 
